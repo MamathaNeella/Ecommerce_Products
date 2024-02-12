@@ -27,3 +27,19 @@ create table Customers(
   ('Prabhu',7898674,5678232,'prabhu22@gmail.com','Mumbai',1),
   ('Laxmi',9876542,9567889,'laxmi88@gmail.com','Bangalore',2);
   
+  insert into customers(cust_name, phone_no, alt_no, emailid, address, product)
+  values('Anjali',904567,871209,'anju09@gmail.com','Noida',7),
+  ('SundharRaj',097654,678912,'sundhar@hotmail.com','Chennai',1),
+  ('Ankith',810453,760123,'ankith123@gmail.com','Pune',8),
+  ('Priyanka',789545,901789,'priya@gmail.com','Bengal',4),
+  ('Amaresh',912345,905678,'amar45@hotmail.com','Hyderabad',2),
+  ('Pramothan',8912345,803356,'pramodh@hotmail.com','Bangalore',5),
+  ('Ramya',908030,9675432,'ramya098@gmail.com','Delhi',6),
+  ('YamunaSri',965432,8907654,'yamuna@gmail.com','Bengal',12),
+  ('Pavani',9321435,890768,'pavi67@gmail.com','Delhi',3),
+  ('VenuMadhav',890234,789654,'venu012@hotmail.com','Bangalore',6),
+  ('Neelima',678342,9989817,'neelu65@gmail.com','Noida',2),
+  ('Pallavi',2345678,8965432,'pallavi@gmail.com','Chennai',8),
+  ('Ankitha',8790654,8123944,'anki9033@hotmail.com','Chennai',5);
+  
+  
