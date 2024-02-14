@@ -16,3 +16,6 @@
   alter table orders
  add orderdate date;
  
+ update  orders
+ set orderdate=current_date()
+ where cust_id between 49 and 70;
